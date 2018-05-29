@@ -1,4 +1,4 @@
-# Calling other lambdas
+# Calling other lambdas using SNS
 
 Example using serverless, slspress and AWS.
 
@@ -10,8 +10,14 @@ Example using serverless, slspress and AWS.
 
 ## Installation
 
-1. Install the project dependencies. `npm install`
+1. Install the project dependencies. `npm install` or `yarn install`.
 2. Deploy the code using serverless CLI. `sls deploy`
+
+## Uninstall
+
+To remove almost all the components deployed on AWS (excluding persistent storage), use the following command:
+
+`sls remove`
 
 ## Additional Information
 

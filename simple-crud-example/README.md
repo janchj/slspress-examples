@@ -1,6 +1,6 @@
-# Simple CRUD example
+# Calling other lambdas using SNS
 
-CRUD example using serverless, slspress and AWS.
+Example using serverless, slspress and AWS.
 
 ## Prerequisites
 
@@ -10,8 +10,14 @@ CRUD example using serverless, slspress and AWS.
 
 ## Installation
 
-1. Install the project dependencies. `npm install`
+1. Install the project dependencies. `npm install` or `yarn install`.
 2. Deploy the code using serverless CLI. `sls deploy`
+
+## Uninstall
+
+To remove all the components deployed on AWS, use the following command:
+
+`sls remove`
 
 ## Additional Information
 
