@@ -17,8 +17,14 @@ Samples using serverless and slspress.
 ## Installation
 
 1. Clone the repository.
-2. Install the project dependencies. `npm install`
+2. Install the project dependencies. `npm install` or `yarn install`
 3. Deploy the code using serverless CLI. `sls deploy`
+
+## Uninstall
+
+To remove all the components deployed on AWS, use the following command:
+
+`sls remove`
 
 ## Additional Information
 
