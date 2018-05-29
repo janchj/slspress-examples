@@ -2,7 +2,7 @@
   "name": "simple-crud-example",
   "version": "1.0.0",
   "description": "CRUD example using serverless, slspress and AWS",
-  "main": "app.js",
+  "main": "handler.js",
   "scripts": {
     "deploy": "sls deploy"
   },

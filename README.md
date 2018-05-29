@@ -1,5 +1,8 @@
 # SLS Examples
 
+[![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/withreason/slspress-examples/blob/master/LICENSE)
+
 Samples using serverless and slspress.
 
 ## Examples
